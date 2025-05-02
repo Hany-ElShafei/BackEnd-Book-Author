@@ -1,0 +1,14 @@
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Core\bin\Debug\net9.0\AuthorAndBook.Core.deps.json
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Core\bin\Debug\net9.0\AuthorAndBook.Core.dll
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Core\bin\Debug\net9.0\AuthorAndBook.Core.pdb
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Core\obj\Debug\net9.0\AuthorAndBook.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Core\obj\Debug\net9.0\AuthorAndBook.Core.AssemblyInfoInputs.cache
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Core\obj\Debug\net9.0\AuthorAndBook.Core.AssemblyInfo.cs
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Core\obj\Debug\net9.0\AuthorAndBook.Core.csproj.CoreCompileInputs.cache
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Core\obj\Debug\net9.0\AuthorAndBook.Core.dll
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Core\obj\Debug\net9.0\refint\AuthorAndBook.Core.dll
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Core\obj\Debug\net9.0\AuthorAndBook.Core.pdb
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Core\obj\Debug\net9.0\ref\AuthorAndBook.Core.dll
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Core\bin\Debug\net9.0\AuthorAndBook.Core.runtimeconfig.json
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Core\obj\Debug\net9.0\AuthorAndBook.Core.genruntimeconfig.cache
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Core\obj\Debug\net9.0\AuthorAndBook.Core.csproj.AssemblyReference.cache

@@ -1,0 +1,17 @@
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Infrastructure\bin\Release\net9.0\AuthorAndBook.Infrastructure.deps.json
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Infrastructure\bin\Release\net9.0\AuthorAndBook.Infrastructure.runtimeconfig.json
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Infrastructure\bin\Release\net9.0\AuthorAndBook.Infrastructure.dll
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Infrastructure\bin\Release\net9.0\AuthorAndBook.Infrastructure.pdb
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Infrastructure\bin\Release\net9.0\AuthorAndBook.Core.dll
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Infrastructure\bin\Release\net9.0\AuthorAndBook.Core.pdb
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Infrastructure\obj\Release\net9.0\AuthorAndBook.Infrastructure.csproj.AssemblyReference.cache
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Infrastructure\obj\Release\net9.0\AuthorAndBook.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Infrastructure\obj\Release\net9.0\AuthorAndBook.Infrastructure.AssemblyInfoInputs.cache
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Infrastructure\obj\Release\net9.0\AuthorAndBook.Infrastructure.AssemblyInfo.cs
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Infrastructure\obj\Release\net9.0\AuthorAndBook.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Infrastructure\obj\Release\net9.0\AuthorAn.5782D8A3.Up2Date
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Infrastructure\obj\Release\net9.0\AuthorAndBook.Infrastructure.dll
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Infrastructure\obj\Release\net9.0\refint\AuthorAndBook.Infrastructure.dll
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Infrastructure\obj\Release\net9.0\AuthorAndBook.Infrastructure.pdb
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Infrastructure\obj\Release\net9.0\AuthorAndBook.Infrastructure.genruntimeconfig.cache
+D:\Backend\AuthorAndBook.API\AuthorAndBook.Infrastructure\obj\Release\net9.0\ref\AuthorAndBook.Infrastructure.dll
